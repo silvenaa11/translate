@@ -1,8 +1,8 @@
 import requests
 import time
 
-URL = "https://translate-xqr9.onrender.com"
-URL = "https://translate-run-script.onrender.com"
+URL = "https://translate-1-nx5c.onrender.com"
+URL = "https://translate-run-script-13af.onrender.com"
 
 while True:
     try:
