@@ -2,7 +2,7 @@ import requests
 import time
 
 URL = "https://translate-xqr9.onrender.com"
-URL = "https://translate-xqr9.onrender.com"
+URL = "https://translate-run-script.onrender.com"
 
 while True:
     try:
