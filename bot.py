@@ -2,8 +2,9 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from deep_translator import GoogleTranslator
 
+
 # Bot tokenini shu yerga yozing
-TOKEN = '8140307917:AAFxQjLyy53GBWRVjh0dtv4OlQan3rzroqE'
+TOKEN = '8605982220:AAHnqKLA6sCxdh4SGAXpu7F1aa6z9LWHGYU'
 bot = telebot.TeleBot(TOKEN)
 
 # /start buyrug'i bosilganda
