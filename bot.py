@@ -11,6 +11,7 @@ bot = telebot.TeleBot(TOKEN)
 # Flask server
 app = Flask(__name__)
 
+
 @app.route('/')
 def home():
     return "Bot ishlayapti!"
